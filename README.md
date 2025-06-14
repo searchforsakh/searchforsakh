@@ -1,7 +1,5 @@
 ![sakha Banner](img/github-header-image.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=searchforsakh&label=Profile%20views&color=0e75b6&style=flat" alt="searchforsakh" /> </p>
-
 <!--
 **searchforsakh/searchforsakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,9 +29,8 @@ Here are some ideas to get you started:
 #### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=searchforsakh&theme=dracula&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=searchforsakh&theme=dracula&" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=searchforsakh&theme=dracula&layout=compact&langs_count=8&card_width=320" />
-</a> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=searchforsakh&theme=dracula" alt="searchforsakh" /></p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=searchforsakh&layout=compact&langs_count=8&theme=dracula&card_width=320" />
+</a>
