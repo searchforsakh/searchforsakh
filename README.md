@@ -1,6 +1,6 @@
 ![sakha Banner](img/banner1.png)
 
-<h2 align="center">Hi, I'm Sakha Pratama. <img src="/img/hvRJCLFzcasrR4ia7z.webp" width="30"></h2>
+<h2 style="border-bottom: none;" align="center">Hi, I'm Sakha Pratama. <img src="/img/hvRJCLFzcasrR4ia7z.webp" width="30"></h2>
 
 <h5 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00CEF7&center=true&vCenter=true&random=true&width=300&height=20&lines=Computer+Science+Student.;+interested+in+new+things;currently+learning+python" alt="Typing SVG" /></a>
