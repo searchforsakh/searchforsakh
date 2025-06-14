@@ -1,9 +1,9 @@
-![sakha Banner](img/025c9a52e667a004ddf62360860b6a69.jpg)
+![sakha Banner](img/banner1.png)
 
 # <p align="center">Hi, I'm Sakha Pratama <img src="/img/hvRJCLFzcasrR4ia7z.webp" width="30"></p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&height=20&color=00CEF7&center=true&vCenter=true&random=true&width=435&lines=Computer+Science+Student;+interested+in+new+things;currently+learning+python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CEF7&center=true&vCenter=true&random=true&width=435&height=25&lines=Computer+Science+Student.;+interested+in+new+things;currently+learning+python" alt="Typing SVG" /></a>
 </p>
 
 <!--
