@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### Social
 
-![https://www.instagram.com/skhprtm/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/skhprtm/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
