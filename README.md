@@ -1,6 +1,6 @@
 ![sakha Banner](img/banner1.png)
 
-## <p align="center">Hi, I'm Sakha Pratama. <img src="/img/hvRJCLFzcasrR4ia7z.webp" width="30"></p>
+<h1 align="center">Hi, I'm Sakha Pratama. <img src="/img/hvRJCLFzcasrR4ia7z.webp" width="30"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00CEF7&center=true&vCenter=true&random=true&width=300&height=20&lines=Computer+Science+Student.;+interested+in+new+things;currently+learning+python" alt="Typing SVG" /></a>
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### <img src="/img/iY8CRBdQXODJSCERIr.webp" width="33"> Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=searchforsakh&theme=dracula&rank_icon=github&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=searchforsakh&theme=transparent&title_color=00CEF7&rank_icon=github&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=searchforsakh&layout=compact&langs_count=8&theme=dracula&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=searchforsakh&layout=compact&langs_count=8&theme=transparent&title_color=00CEF7&card_width=320" />
 </a>
 
 ### 🫱🏻‍🫲🏻 Connect W/ Me
