@@ -1,10 +1,10 @@
 ![sakha Banner](img/banner1.png)
 
-<h1 align="center">Hi, I'm Sakha Pratama. <img src="/img/hvRJCLFzcasrR4ia7z.webp" width="30"></h1>
+<h2 align="center">Hi, I'm Sakha Pratama. <img src="/img/hvRJCLFzcasrR4ia7z.webp" width="30"></h2>
 
-<p align="center">
+<h5 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00CEF7&center=true&vCenter=true&random=true&width=300&height=20&lines=Computer+Science+Student.;+interested+in+new+things;currently+learning+python" alt="Typing SVG" /></a>
-</p>
+</h5>
 
 <!--
 **searchforsakh/searchforsakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
