@@ -26,4 +26,4 @@
 
 ### 🫱🏻‍🫲🏻 Connect W/ Me
 
-[![skhprtm](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/skhprtm/) [![skh](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/plunnbksgdw3qh7ogoedxq6jn) [![skh](https://img.shields.io/badge/Tiktok-000000?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxzazxs)
+[![skhprtm](https://img.shields.io/badge/Instagram-d62976.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/skhprtm/) [![skh](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/plunnbksgdw3qh7ogoedxq6jn) [![skh](https://img.shields.io/badge/Tiktok-000000?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxzazxs)
