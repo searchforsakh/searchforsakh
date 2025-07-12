@@ -1,16 +1,14 @@
-![sakha Banner](img/banner1.png)
+![sakha Banner](img/png.png)
 
 <h2 align="center">
   Hi, I'm Sakha Pratama. 
   <img src="/img/hvRJCLFzcasrR4ia7z.webp" alt="Waving Hand" width="30" />
 </h2>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00CEF7&center=true&vCenter=true&random=true&width=300&height=20&lines=Computer+Science+Student.;Interested+in+new+things.;Currently+learning+Python!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00CEF7&center=true&vCenter=true&random=true&width=300&height=20&lines=Computer+Science+Student.;Lived+it.+Loved+it.;Currently+learning+Python!" alt="Typing SVG" />
   </a>
 </p>
-
 <hr>
 
 ### <img src="/img/QssGEmpkyEOhBCb7e1.webp" width ="23"> Languages / Tools
@@ -28,4 +26,4 @@
 
 ### 🫱🏻‍🫲🏻 Connect W/ Me
 
-[![skhprtm](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/skhprtm/) [![skh](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/plunnbksgdw3qh7ogoedxq6jn)
+[![skhprtm](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/skhprtm/) [![skh](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/plunnbksgdw3qh7ogoedxq6jn) [![skh](https://img.shields.io/badge/Tiktok-000000?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxzazxs)
