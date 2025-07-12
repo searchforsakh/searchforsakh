@@ -1,4 +1,4 @@
-![sakha Banner](img/png.png)
+![sakha Banner](img/new.png)
 
 <h2 align="center">
   Hi, I'm Sakha Pratama. 
