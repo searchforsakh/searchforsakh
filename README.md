@@ -13,7 +13,7 @@
 
 ### <img src="/img/QssGEmpkyEOhBCb7e1.webp" width ="23"> Languages / Tools
 
-![](https://skillicons.dev/icons?i=python,git,html,css,bootstrap&theme=dark)
+![](https://skillicons.dev/icons?i=python,cpp,arduino,git,html,css,bootstrap&theme=dark)
 
 ### <img src="/img/iY8CRBdQXODJSCERIr.webp" width="33"> Stats
 
@@ -26,4 +26,4 @@
 
 ### 🫱🏻‍🫲🏻 Connect W/ Me
 
-[![skhprtm](https://img.shields.io/badge/Instagram-d62976.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/skhprtm/) [![skh](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/plunnbksgdw3qh7ogoedxq6jn) [![skh](https://img.shields.io/badge/Tiktok-000000?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxzazxs)
+[![skhprtm](https://img.shields.io/badge/Instagram-d62976.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/skhprtm/) [![skh](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/plunnbksgdw3qh7ogoedxq6jn) [![skh](https://img.shields.io/badge/Tiktok-000000?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxzazxs) [![skh](https://img.shields.io/badge/Linkedin-124672?&style=for-the-badge&logo=l&logoColor=white)](https://www.linkedin.com/in/sakha-pratama-a91708371)
